@@ -35,7 +35,7 @@ It connects to the Java Spring Boot backend to manage tasks for caseworkers.
     The frontend interacts with the backend using the following endpoints:
 
     |Method	|Endpoint	        |Description
-
+    |:---- |:---- |:----|
     |GET	|/tasks	            |List all tasks
     |GET	|/tasks/{id}        |Get task by ID
     |POST	|/tasks	            |Create new task
